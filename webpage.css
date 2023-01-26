@@ -1,0 +1,208 @@
+h1 {
+    color: white;
+    font-size: 750%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    text-align: auto;
+    width: fit-content;
+    margin-top: 10Opx;
+    margin-right: auto;
+    border-radius: 10px;
+    padding-right: 20px;
+
+}
+
+h2 {
+    color: white;
+    font-size: 250%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    text-align: left;
+    width: fit-content;
+    margin-top: 10Opx;
+    margin-right: auto;
+    border-radius: 10px;
+    padding-right: 20px;
+
+
+
+}
+
+h3 {
+    color: white;
+    font-size: 250%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    text-align: left;
+    width: fit-content;
+    margin-top: 2Opx;
+    margin-right: auto;
+    border-radius: 10px;
+    padding-right: 10px;
+
+
+}
+
+body {
+    background-image: url(C:\\Users\\suota\\Desktop\\CODING\\html_projekty\\photos\\1041825-scaled.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 120%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: left;
+
+
+}
+
+li {
+    color: white;
+    font-size: 110%;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 2%;
+}
+
+mark {
+    color: rgb(0, 46, 183);
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-variant: small-caps;
+    background-color: rgba(173, 173, 173, 0.5);
+    width: fit-content;
+    backdrop-filter: blur(30px);
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    margin-top: auto;
+}
+
+sup {
+    color: rgb(0, 46, 183);
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+
+bdo {
+    color: white;
+    font-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+abbr {
+    color: white;
+    font-size: 110%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul.a {
+    list-style-type: none;
+    width: fit-content;
+    background-color: rgba(173, 173, 173, 0.5);
+    backdrop-filter: blur(30px);
+    border-radius: 10px;
+    border-style: outset;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+ul.b {
+    list-style-type: none;
+    width: max-content;
+    background-color: rgba(173, 173, 173, 0.5);
+    backdrop-filter: blur(30px);
+    border-radius: 10px;
+    border-style: outset;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+a {
+    color: white;
+    font-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: outset;
+    background-color: blac;
+
+}
+
+a:hover {
+    color: transparent;
+    font-size: 120%;
+}
+
+a:link,
+a:hover {
+    background-color: rgba(173, 173, 173, 0.5);
+    backdrop-filter: blur(100px);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+    width: fit-content;
+}
+
+a:hover,
+a:active {
+    font-weight: bold;
+    text-decoration: none;
+    background-color: black;
+}
+
+img {
+    border-radius: 30px;
+}
+
+table,
+th,
+td {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    width: auto;
+    
+    border: 2px solid white;
+    border-radius: 10px;
+    border-collapse: separate;
+    border-spacing: 10px;
+    border-style: outset;
+    border-color: silver;
+    padding: 5px;
+
+}
+
+th,
+td
+{
+   background-color: rgba(173, 173, 173, 0.5); 
+}
+
+table:hover {
+    font-size: x-large;
+    border: none;
+}
+
+caption {
+    color: white;
+    font-size: 100%;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
